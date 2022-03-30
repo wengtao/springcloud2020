@@ -8,7 +8,7 @@ import org.springframework.web.client.RestTemplate;
 import javax.annotation.Resource;
 
 /**
- * @auther zzyy
+ * @auther wtao
  * @create 2020-02-19 15:21
  */
 @RestController
